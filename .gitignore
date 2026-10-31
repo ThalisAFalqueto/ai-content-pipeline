@@ -1,0 +1,11 @@
+.env
+auth/client_secret.json
+auth/token.json
+data/output/
+venv/
+__pycache__/
+*.pyc
+
+# Config local de ferramenta e lixo de sessão
+.claude/settings.local.json
+.Rhistory
